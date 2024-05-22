@@ -1,7 +1,7 @@
 # Proyecto-Analisis-ETOI
 Analisis de datos de Encuesta Trimestral de Ocupación E Ingresos (ETOI) para la Ciudad de Buenos Aires
 
-tablero1
+analisis.jpg
 
 El siguiente proyecto fue elaborado en marco de un curso de la empresa Quales Group, donde se pusieron en ejecución buenas prácticas al hacer un tablero como:
 
