@@ -24,6 +24,6 @@ Se agregaron:
 
 • Limpieza de filtros
 
---> Para ingresar al informe dinámico: [Análisis ETOI CABA]([ ](https://app.powerbi.com/view?r=eyJrIjoiMmU5OGEyNDgtYzk4ZC00YzljLWFhOTUtN2M4MjljYTZjYzIyIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9&pageName=ReportSectiond5119466b7a0bd4b1109))
+--> Para ingresar al informe dinámico: [Análisis ETOI CABA](https://app.powerbi.com/view?r=eyJrIjoiMmU5OGEyNDgtYzk4ZC00YzljLWFhOTUtN2M4MjljYTZjYzIyIiwidCI6IjliOTI5NDVmLTdkNmItNGE4NC1iYzMzLTBhZjA5ZGQxZTM5NiJ9&pageName=ReportSectiond5119466b7a0bd4b1109)
 
 
